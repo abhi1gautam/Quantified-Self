@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "gg"
+    },
+    {
+      "name": "gg"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Abhisek Gautam",
+      "timestamp_ms": 1565274312540,
+      "content": "Test",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abhisek Gautam",
+      "timestamp_ms": 1565272522450,
+      "content": "Message",
+      "share": {
+        "link": "www.test.com"
+      },
+      "type": "Share"
+    }
+  ],
+  "title": "Receiver",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/sample"
+}

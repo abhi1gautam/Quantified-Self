@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/531000/4fd4d1cafad34c49a4eda8bfb984889c
+bundleId: https://api.rpubs.com/api/v1/document/531000/4fd4d1cafad34c49a4eda8bfb984889c
+url: http://rpubs.com/abhi1gautam/531000
+when: 1572196208.15358
